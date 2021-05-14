@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SamSaz</title>
+    <link>https://samsaz.com/</link>
+    <description>Recent content on SamSaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://samsaz.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://samsaz.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samsaz.com/about/</guid>
+      <description>Personal My name is Hamid Moazzami (/hæmɪd/ - he/him). I was born on October 1992. I am married and have no kids.
+Professional The beginning I am a passionate mobile app developer who like sot create amazing stuff. My mobile development career started when I was experimenting if I can make an Android app to propose to my now wife (She said yes!).
+My first year started getting to know Android platform and basic tools to create Android apps.</description>
+    </item>
+    
+  </channel>
+</rss>
